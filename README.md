@@ -1,6 +1,6 @@
 # MTJ_Trend_Forecasting
 
-This is a Python implementation of the framework proposed in the paper: "[Artificial Intelligence strategic planning on Magnetic Tunnel Junction[]()".
+This is a Python implementation of the framework proposed in the paper: "[Artificial Intelligence strategic planning on Magnetic Tunnel Junction]()".
 
 ## Abstract
 
@@ -18,7 +18,19 @@ The data can be found in the directory [**data**](https://github.com/zaidalmahmo
 
 ## Citation
 ```
+@article{,
+title = {},
+journal = {},
+volume = {},
+pages = {},
+year = {},
+issn = {},
+doi = {},
+url = {},
+author = {}
+}
 ```
+
 
 }
 ```
