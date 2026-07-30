@@ -9,25 +9,24 @@ Advances in magnetic tunnel junction (MTJ) technology have expanded interest in 
 ## Dataset
 The data can be found in the directory [**data**](https://github.com/zaidalmahmoud/MTJ_Trend_Forecasting/tree/main/data).
 
-## Key files:
-**train_test.py**: Trains and evaluates the model to identify the optimal hyperparameter configuration.
-**train.py**: Trains the final model on the complete dataset using the optimal hyperparameters and saves the resulting operational model for forecasting.
-**forecast.py**: Uses the operational model to forecast future trends and generate the corresponding prediction data and future gaps.
-**net.py**: Contains the implementation of the Bayesian Multivariate Time-Series Graph Neural Network (B-MTGNN) architecture.
+## Key Files
 
+- **`train_test.py`**: Trains and evaluates the model to identify the optimal hyperparameter configuration.
+- **`train.py`**: Trains the final model on the complete dataset using the optimal hyperparameters and saves the resulting operational model for forecasting.
+- **`forecast.py`**: Uses the operational model to forecast future trends and generate the corresponding predictions and future gap estimates.
+- **`net.py`**: Contains the implementation of the Bayesian Multivariate Time-Series Graph Neural Network (B-MTGNN) architecture.
 
 ## Citation
-@article{,
-title = {},
-journal = {},
-volume = {},
-pages = {},
-year = {},
-issn = {},
-doi = {},
-url = {},
-author = {}
-}
 
+```bibtex
+@article{author2026title,
+  title   = {},
+  journal = {},
+  volume  = {},
+  pages   = {},
+  year    = {},
+  issn    = {},
+  doi     = {},
+  url     = {},
+  author  = {}
 }
-```
