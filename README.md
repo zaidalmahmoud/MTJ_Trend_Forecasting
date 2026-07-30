@@ -1,7 +1,5 @@
 # MTJ_Trend_Forecasting
 
-# Cyber trend forecasting
-
 This is a Python implementation of the framework proposed in the paper: "[Artificial Intelligence strategic planning on Magnetic Tunnel Junction[]()".
 
 ## Abstract
