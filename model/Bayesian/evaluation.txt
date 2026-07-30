@@ -1,0 +1,7 @@
+1 run average
+
+
+valid   rse     rae
+--------------------
+mean    0.62    0.63
+
